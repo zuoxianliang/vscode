@@ -1,0 +1,2 @@
+# vscode
+For learning softwares
